@@ -1,3 +1,7 @@
+vivier_page:
+    resource: "@VivierPageBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
