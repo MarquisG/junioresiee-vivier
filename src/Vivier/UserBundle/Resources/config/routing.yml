@@ -1,0 +1,3 @@
+vivier_user_homepage:
+    path:     /
+    defaults: { _controller: VivierUserBundle:Default:index }
